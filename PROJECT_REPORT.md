@@ -14,7 +14,7 @@
 **Student Name:** Project Contributor  
 **Roll / Registration Number:** CSE-2022-LIFEPULSE-01  
 **Department:** Department of Computer Science & Engineering  
-**Academic Session:** 2022 – 2026  
+**Academic Session:** 2024 – 2028  
 
 **Under the Guidance of:**  
 **Internal Project Supervisor / Mentor**  
